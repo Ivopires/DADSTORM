@@ -8,10 +8,10 @@ This project was implemented using C# and .Net Remoting.
 
 The topology of the system can be described in a configuration file, which is composed by line with the following format:
 
-operator_id INPUT_OPS source_op_id_1|filepath_1,. . .,source_op_id_n|filepath_n 
+operator_id INPUT_OPS source_op_id_1|filepath_1, ... ,source_op_id_n|filepath_n 
   REP_FACT repl_factor ROUTING primary|hashing|random
-  ADDRESS URL1,. . .,URL_REP_FACT
-  OPERATOR_SPEC operator_type operator_param_1,. . .,operator_param_n
+  ADDRESS URL1, ... ,URL_REP_FACT
+  OPERATOR_SPEC operator_type operator_param_1, ... ,operator_param_n
   
 where:
   - The _OPERATOR_ID_ parameter is an integer identifying the operator.
@@ -20,6 +20,9 @@ where:
   - The _ROUTING_ policy parameter specifies how the input tuples which are consumed by the operator should be distributed among its replicas. It has three possible values whose semantics are described below.
   - The _ADDRESS_ parameter specifies a list of all the replicas URLs. These URLs are in the format `tcp://<machine-ip>:<port>/op`.
   - The _OPERATOR_SPEC_ parameter indicates the name of the tuple transformation being performed at this operator and it is followed by a list of the input parameters required by the operator.
+  
+  In the figure below there's a physical representation of a _full_ working system, where are descripted the routing systems used between operators and the functions performed by each one.
+  ![Physical mapping of the distributed computation for the reach of an URL in Tweeter](Architecture.png)
   
 ### Tuple Routing
 The DADSTORM implements three different policies for tuple routing from one operator to another:
