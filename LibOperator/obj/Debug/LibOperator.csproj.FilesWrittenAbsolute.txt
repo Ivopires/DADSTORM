@@ -1,0 +1,5 @@
+/Users/Ivopires/Desktop/DADSTORM/LibOperator/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Ivopires/Desktop/DADSTORM/LibOperator/bin/Debug/LibOperator.dll.mdb
+/Users/Ivopires/Desktop/DADSTORM/LibOperator/bin/Debug/LibOperator.dll
+/Users/Ivopires/Desktop/DADSTORM/LibOperator/obj/Debug/LibOperator.dll
+/Users/Ivopires/Desktop/DADSTORM/LibOperator/obj/Debug/LibOperator.dll.mdb

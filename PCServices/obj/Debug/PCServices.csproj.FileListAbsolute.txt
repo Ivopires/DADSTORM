@@ -1,0 +1,15 @@
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\PCServices\bin\Debug\PCServices.dll
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\PCServices\bin\Debug\PCServices.pdb
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\PCServices\obj\Debug\PCServices.dll
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\PCServices\obj\Debug\PCServices.pdb
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\PCServices\obj\Debug\PCServices.csprojResolveAssemblyReference.cache
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\PCServices\bin\Debug\PCServices.dll
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\PCServices\bin\Debug\PCServices.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\PCServices\obj\Debug\PCServices.csprojResolveAssemblyReference.cache
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\PCServices\obj\Debug\PCServices.dll
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\PCServices\obj\Debug\PCServices.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\PCServices\bin\Debug\PCServices.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\PCServices\bin\Debug\PCServices.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\PCServices\obj\Debug\PCServices.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\PCServices\obj\Debug\PCServices.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\PCServices\obj\Debug\PCServices.pdb

@@ -1,0 +1,14 @@
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/obj/Debug/DADSTORM.Form1.resources
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/obj/Debug/PuppetMaster.Properties.Resources.resources
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/PuppetMaster.exe.config
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/PuppetMaster.exe.mdb
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/PuppetMaster.exe
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/obj/Debug/PuppetMaster.exe
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/obj/Debug/PuppetMaster.exe.mdb
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/OperatorServices.dll
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/OperatorServices.dll.mdb
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/Operator.exe
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/Operator.exe.mdb
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/PCServices.dll
+/Users/Ivopires/Desktop/DADSTORM/PuppetMaster/bin/Debug/PCServices.dll.mdb

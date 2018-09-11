@@ -1,0 +1,12 @@
+/Users/Ivopires/Desktop/DADSTORM/PCS/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/PCS.exe.config
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/PCS.exe.mdb
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/PCS.exe
+/Users/Ivopires/Desktop/DADSTORM/PCS/obj/Debug/PCS.exe
+/Users/Ivopires/Desktop/DADSTORM/PCS/obj/Debug/PCS.exe.mdb
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/Operator.exe
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/Operator.exe.mdb
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/PCServices.dll
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/PCServices.dll.mdb
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/OperatorServices.dll
+/Users/Ivopires/Desktop/DADSTORM/PCS/bin/Debug/OperatorServices.dll.mdb

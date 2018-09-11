@@ -1,0 +1,15 @@
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\OperatorServices\bin\Debug\OperatorServices.dll
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\OperatorServices\bin\Debug\OperatorServices.pdb
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\OperatorServices\obj\Debug\OperatorServices.csprojResolveAssemblyReference.cache
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\OperatorServices\obj\Debug\OperatorServices.dll
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\OperatorServices\obj\Debug\OperatorServices.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\OperatorServices\bin\Debug\OperatorServices.dll
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\OperatorServices\bin\Debug\OperatorServices.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\OperatorServices\obj\Debug\OperatorServices.csprojResolveAssemblyReference.cache
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\OperatorServices\obj\Debug\OperatorServices.dll
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\OperatorServices\obj\Debug\OperatorServices.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\OperatorServices\bin\Debug\OperatorServices.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\OperatorServices\bin\Debug\OperatorServices.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\OperatorServices\obj\Debug\OperatorServices.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\OperatorServices\obj\Debug\OperatorServices.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\OperatorServices\obj\Debug\OperatorServices.pdb

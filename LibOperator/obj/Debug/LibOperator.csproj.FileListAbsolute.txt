@@ -1,0 +1,5 @@
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\LibOperator\bin\Debug\LibOperator.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\LibOperator\bin\Debug\LibOperator.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\LibOperator\obj\Debug\LibOperator.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\LibOperator\obj\Debug\LibOperator.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\LibOperator\obj\Debug\LibOperator.pdb

@@ -1,0 +1,5 @@
+/Users/Ivopires/Desktop/DADSTORM/PCServices/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/Ivopires/Desktop/DADSTORM/PCServices/bin/Debug/PCServices.dll.mdb
+/Users/Ivopires/Desktop/DADSTORM/PCServices/bin/Debug/PCServices.dll
+/Users/Ivopires/Desktop/DADSTORM/PCServices/obj/Debug/PCServices.dll
+/Users/Ivopires/Desktop/DADSTORM/PCServices/obj/Debug/PCServices.dll.mdb

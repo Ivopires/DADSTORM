@@ -1,0 +1,32 @@
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\Operator.exe.config
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\Operator.exe
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\Operator\bin\Debug\Operator.pdb
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\Operator\obj\Debug\Operator.exe
+c:\users\joao ferreira\documents\visual studio 2015\Projects\DADSTORM\Operator\obj\Debug\Operator.pdb
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\Operator\bin\Debug\PCServices.dll
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\Operator\bin\Debug\PCServices.pdb
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\Operator\bin\Debug\OperatorServices.dll
+C:\Users\Joao Ferreira\Documents\Visual Studio 2015\Projects\DADSTORM\Operator\bin\Debug\OperatorServices.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\Operator.exe.config
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\Operator.exe
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\Operator.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\OperatorServices.dll
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\PCServices.dll
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\OperatorServices.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\bin\Debug\PCServices.pdb
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\obj\Debug\Operator.exe
+C:\Users\lagarto\Desktop\ist\DAD_PROJ\DAD\Operator\obj\Debug\Operator.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\Operator.exe.config
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\Operator.exe
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\Operator.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\LibOperator.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\OperatorServices.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\PCServices.dll
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\LibOperator.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\OperatorServices.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\bin\Debug\PCServices.pdb
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\obj\Debug\Operator.csprojResolveAssemblyReference.cache
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\obj\Debug\Operator.exe
+C:\Users\Ivo Pires\Desktop\DADv2\DADSTORM\Operator\obj\Debug\Operator.pdb
